@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@500&family=Lato:wght@100;400;900&family=Mochiy+Pop+P+One&family=Montserrat+Alternates:wght@100&display=swap');
+
+table {
+    border-collapse: collapse;  
+}
+
+table:nth-of-type(1) {
+    font-family: Hind Siliguri;
+    font-size: 25px;
+    width: 900px;
+    border: 2px solid #fec107;
+    background: #382c6e;
+    color: white;
+}
+
+table:nth-of-type(1) td, th {
+    border: 2px solid #fec107;
+    padding: 20px;
+}
+
+table:nth-of-type(1) thead {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.thead1-1 {
+    background: #fec107;
+    color: black;
+}
+
+.thead1-2 {
+    background: #e5ae30;
+    color: black;
+}
+
+table:nth-of-type(2) {
+    color: white;
+    font-family: arial;
+    font-size: 20px;
+    width: 650px;
+    border: 2px solid white;
+}
+
+table:nth-of-type(2) td, th {
+    border: 2px solid white;
+    padding: 10px;
+    background: #af5593;
+}
+
+table:nth-of-type(2) thead {
+    font-family: monospace;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#thead2 {
+    background: #860070;
+}
+
+#pink {
+    background-color: #f37ed0;
+}
+
+table:nth-of-type(3) {
+    font-family: monospace;
+    font-size: 20px;
+    width: 650px;
+    border: 2px solid black;
+}
+
+table:nth-of-type(3) td, th {
+    border: 2px solid black;
+    padding: 8px;
+}
+
+.orange {
+    background: #fea500; 
+    color: white;   
+}
+
+.blue {
+    background: #4f4fff;
+    color: white;   
+}
+
+.green {
+    background: #16c03b;
+    color: white;  
+}
+
+#bold {
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
